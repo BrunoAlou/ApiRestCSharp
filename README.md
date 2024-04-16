@@ -26,3 +26,11 @@
 ### Consulta Requisitada:
 - Informações necessárias: número do processo de pagamento, nome do fornecedor, data de vencimento, data de pagamento, valor líquido e identificador se é conta a pagar ou paga.
 - Consulta envolve as tabelas ContasAPagar, ContasPagas e Pessoas.
+- 
+## Autor
+
+<a href="https://www.linkedin.com/in/brunoalou/" target=”_blank”>
+ <sub><b>Bruno Alves</b></sub></a> <a href="https://www.linkedin.com/in/brunoalou/" title="LinkedIn"></a>
+ <br />
+ 
+[![Gmail Badge](https://img.shields.io/badge/-bruunieng@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruunieng@gmail.com)](mailto:bruunieng@gmail.com)
