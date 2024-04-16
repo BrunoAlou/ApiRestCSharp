@@ -26,7 +26,7 @@
 ### Consulta Requisitada:
 - Informações necessárias: número do processo de pagamento, nome do fornecedor, data de vencimento, data de pagamento, valor líquido e identificador se é conta a pagar ou paga.
 - Consulta envolve as tabelas ContasAPagar, ContasPagas e Pessoas.
-- 
+
 ## Autor
 
 <a href="https://www.linkedin.com/in/brunoalou/" target=”_blank”>
